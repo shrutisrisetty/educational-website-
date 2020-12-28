@@ -135,8 +135,14 @@ p.cons {
 .logo img{
 	position: absolute;
 	top: 1%;
-    left: 1%;
+        left: 1%;
 	float: left;
 	width: 250px;
 	height: 150px;
 }
+
+@viewport {
+	width: device-width ;
+	zoom: 1.0 ;
+}
+	
